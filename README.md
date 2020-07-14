@@ -1,5 +1,7 @@
 # BeyondSports_MatchData
-Assignment for BeyondSports interview process
+Assignment for BeyondSports interview process:
+Some notes from the process, things I would change, and observations in general.
+
 
 Class Specific Notes:
 ===================
